@@ -19,6 +19,8 @@ public class sample : MonoBehaviour
         Debug.Log(n); 
         Debug.Log(b);
         Debug.Log(z);
+        
+        //やるきありますか？
     }
 
     // Update is called once per frame
